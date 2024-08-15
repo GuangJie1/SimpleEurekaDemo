@@ -1,2 +1,2 @@
 # SimpleEurekaDemo
-A simple demo for sping-cloud-eureka
+A simple demo for openEuler
